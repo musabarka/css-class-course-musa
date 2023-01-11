@@ -1,0 +1,120 @@
+.Bg-gray{background-color: #121826;
+
+}
+.text-white{ color: white;
+}
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+button{
+    font-family: 'Lato', sans-serif;
+ font-weight: 100px; 
+ letter-spacing: 0.8px;  
+ padding: 9px;
+}
+.block{
+    display: block;
+}
+.inline-block{
+    display: inline-block;
+}
+.inline{
+   display: inline;  
+}
+.hidden{
+    display: none;
+}
+.flex{
+    display: flex;
+}
+.justify-between{
+justify-content: space-between   } 
+  .justify-center{
+    justify-content: center ;
+  }
+  .items{
+  align-items:center }
+  .m-8{
+    margin: 8px; 
+  }
+  .p-8{
+    padding: 8px;
+  }
+  .pt-18{
+    padding-top: 18px;
+  }
+  .py-18{
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  .px-16{
+    padding-left:16px;
+    padding-right: 16px;
+  }
+ dd {
+    padding-top:18px;
+    padding-bottom: 18px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+  }
+  .font-lato{
+    font-family: 'Lato', sans-serif;
+  }
+  .no-underline{text-decoration: none;
+}
+.bg-brand-teal{
+    background-color: #539d98;
+     border-radius: 999px;
+}
+.b-none{
+    border: none;
+    border-radius: 99px;
+}
+.text-sm{
+    font-size: 12px;
+}
+body{ color: whitesmoke;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 200px;
+  font-style: italic;
+  font-size: larger ;
+  
+}
+.butfree 
+  button{
+    font-family: 'Lato', sans-serif;
+ font-weight: 100px; 
+ letter-spacing: 0.8px;  
+ padding: 15px;
+ background-color: #539d98;
+ border-radius: 999px;
+ color: white;
+}
+.login-form{
+  float: right;
+  text-align: center;
+  margin-top: -215px; 
+  font-family: Arial, Helvetica;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 32px;
+  width: 300px;
+  text-align: auto;
+           }
+  .login-form input {
+      margin-top: 9px;
+      margin-left: -15px;
+      border-radius: 9px;
+      margin-right: -15px;
+      padding: 15px;
+      width: 330px;
+     background-color: antiquewhite;
+  }         
+  p{ text-align: left;
+    font-weight: 300px;
+  }
+  
